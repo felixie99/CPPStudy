@@ -1,6 +1,7 @@
 #### 1 ::双冒号作用域运算符
 
-```c++
+```
+c++
 #include "iostream"
 using namespace std;
 int atk = 200;
